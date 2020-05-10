@@ -8,7 +8,7 @@ C'est un projet de NSI (Numérique et Sciences Informatiques) sur le feu de fore
 
 # Logiciel requis
 
-Processing 3 Python Mode
+Processing 3 Python Mode (Obligatoire puisqu'on utilise certaines fonctions du processing qui n'est pas sur python)
 
 # Installation
 
