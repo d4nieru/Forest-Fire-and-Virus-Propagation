@@ -1,4 +1,4 @@
-# Feu-de-Foret-Projet-NSI
+# Feu de Foret Projet NSI
 
 # À propos
 
@@ -11,6 +11,7 @@ Processing 3 Python Mode
 # Installation
 
 Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les codes que vous pouvez changer ;)
+IMPORTANT : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
 
 N      = 50 par défaut   # taille du tableau carré
 
@@ -25,8 +26,5 @@ met_le_feu(1)    # ...et on y allume plusieurs foyers
 la_foudre_c_cool(0) # nombre de foudre
 
 # Mots de fin
-
-Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise.
-Je pense que ça sera tout.
 
 Merci d'avoir consulté cette page
