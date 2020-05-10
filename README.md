@@ -5,16 +5,16 @@
 
 # À propos
 
-C'est un projet de NSI (Numérique et Sciences Informatiques) sur le feu de foret + la propagation du virus en se basant sur l'automate cellulaire, Au début, le code initiale etait déjà écrit (surtout les fonctions principaux), puis notre professeur a mis tout le code en nous demandant de l'améliorer. Biensur, je l'ai pas fait tout seul, je les fait avec des potes, en groupe. Le programme est écrit sur le logiciel processing en python (language qui personnellement je le deteste meme s'il est le plus facile).
+C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur le feu de foret + la propagation du virus en se basant sur l'automate cellulaire, Au début, le code initiale etait déjà écrit ( surtout les fonctions principaux ), puis notre professeur a mis tout le code en nous demandant de l'améliorer. Biensûr, je l'ai pas fait tout seul, je les fait avec un groupe de potes. Le programme est écrit sur le logiciel processing en python.
 
 # Logiciel requis
 
-• Processing 3 Python Mode (Obligatoire puisqu'on utilise certaines fonctions du processing qui n'est pas sur python)
+• Processing 3 Python Mode ( **Obligatoire** puisqu'on utilise certaines fonctions du processing qui n'est pas sur python )
 
 # Installation
 
-Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les codes que vous pouvez changer facilement.
-IMPORTANT : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise ;D .
+Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les valeurs des variables que vous pouvez changer facilement.
+**IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise, faites-vous plaisir.
 
 # Pour le Feu de Foret
 
@@ -48,6 +48,8 @@ frameRate(5)    # la boucle draw() sera appelée x fois par secondes
 
 fallout(1)    # ...et on y allume plusieurs foyers (oui oui on est très créatifs), Allumage d'un certain nombre de porteur sain
 
-C'est fascinant de voir le programme en action, après tant d'heures de travail... (bon j'ai juste participé mais c'est pas ma faute)
+# Mots de Fin
 
-J'espère que ce programme vous aura plu et boom.
+## C'est fascinant de voir le programme en action, après tant d'heures de travail... (bon j'ai juste participé mais c'est pas ma faute)
+
+### J'espère que ce programme vous aura plu et boom.
