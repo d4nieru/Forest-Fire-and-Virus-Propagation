@@ -1,4 +1,5 @@
 # Projet de Feu de Foret + Propagation du Virus NSI #2
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Projet achevé le 8/05/2020 [X]
 
