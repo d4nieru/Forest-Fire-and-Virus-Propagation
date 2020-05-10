@@ -46,3 +46,7 @@ size(600, 600)   # on crée une fenêtre (ex: 600x600)
 frameRate(5)    # la boucle draw() sera appelée x fois par secondes
 
 fallout(1)    # ...et on y allume plusieurs foyers (oui oui on est très créatifs), Allumage d'un certain nombre de porteur sain
+
+C'est fascinant de voir le programme en action, après tant d'heures de travail... (bon j'ai juste participé mais c'est pas ma faute)
+
+J'espère que ce programme vous aura plu et boom.
