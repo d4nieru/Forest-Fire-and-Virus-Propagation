@@ -13,7 +13,7 @@ C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur le feu de fo
 
 # Installation
 
-Après avoir téléchargé le logiciel et ouvert le projet, pour se servir du programme, voici les valeurs des variables que vous pouvez changer facilement.
+Après avoir téléchargé le logiciel et ouvert le projet de votre choix, pour se servir du programme, voici les valeurs des variables que vous pouvez changer facilement.
 **IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise, faites-vous plaisir.
 
 # Pour le Feu de Foret
