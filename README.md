@@ -1,49 +1,48 @@
-# Projet de Feu de Foret + Propagation du Virus NSI #2
+# Forest Fire and Virus Propagation Project NSI #2
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-◆ Projet achevé le 8/05/2020 [X]
+◆ Project completed 8/05/2020 [X]
 
-# À propos
+# About
 
-C'est un projet de NSI ( Numérique et Sciences Informatiques ) sur le feu de foret + la propagation du virus en se basant sur l'automate cellulaire, Au début, le code initiale etait déjà écrit ( surtout les fonctions principaux ), puis notre professeur a mis tout le code en nous demandant de l'améliorer. Biensûr, je l'ai pas fait tout seul, je les fait avec un groupe de potes. Le programme est écrit sur le logiciel processing en python.
+This was a school project on a Forest Fire and Virus Propagation Simulation. The initial functions were already written and we had to complete and improve the program.
 
-# Logiciel requis
+# Required software
 
-**•** Processing 3 Python Mode ( **Obligatoire** puisqu'on utilise certaines fonctions du processing qui n'est pas sur python )
+**•** An IDE for the Python language.
 
 # Installation
 
-Après avoir téléchargé le logiciel et ouvert le projet de votre choix, pour se servir du programme, voici les valeurs des variables que vous pouvez changer facilement.
-**IMPORTANT** : Si vous comprenez le language python et la structure de notre projet, vous pouvez le modifer a votre guise, faites-vous plaisir.
+Here are the values of the variables that you can easily change for both programs.
 
-# Pour le Feu de Foret
+# For the Forest Fire
 
-N      = 50 par défaut   # taille du tableau carré
+`N      = 50` by default →→ Size of the square board
 
-size(600, 600)   # on crée une fenêtre (ex: 600x600)
+`size(600, 600)` →→ Size of the program window (e.g. 600x600)
 
-frameRate(10)    # la boucle draw() sera appelée x fois par secondes
+`frameRate(10)` →→ the draw() loop will be called x times per second
 
-fabrique_la_foret(0.425,0.1) # on se fabrique une jolie forêt
+`fabrique_la_foret(0.425,0.1)` →→ Used to make a nice forest
 
-met_le_feu(1)    # ...et on y allume plusieurs foyers
+`met_le_feu(1)` →→ Used to light several fireplaces
 
-la_foudre_c_cool(0) # nombre de foudre
+`la_foudre_c_cool(0)` →→ Number of lightning strikes
 
-# Pour la Propagation du Virus
+# For the Virus Propagation
 
-N      = 50
+`N      = 50` by default →→ Size of the square board
 
-taux_contamination = 0.4
+`taux_contamination = 0.4` →→ Contamination_rate
 
-taux_porteur_sains = 0.05
+`taux_porteur_sains = 0.05` →→ Healthy_carrier_rate
 
-mortalite = 0.02
+`mortalite = 0.02` →→ Mortality
 
-taux_immunise = 0.01
+`taux_immunise = 0.01` →→ Rate_immunized
 
-size(600, 600)   # on crée une fenêtre (ex: 600x600)
+`size(600, 600)` →→ Size of the program window (e.g. 600x600)
 
-frameRate(5)    # la boucle draw() sera appelée x fois par secondes
+`frameRate(5)` →→ the draw() loop will be called x times per second
 
-fallout(1)    # ...et on y allume plusieurs foyers (oui oui on est très créatifs), Allumage d'un certain nombre de porteur sain
+`fallout(1)` →→ Used to light several fireplaces (yes.. we were very creative for the name of the variable :v)
