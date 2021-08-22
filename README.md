@@ -5,7 +5,7 @@
 
 # About
 
-This was a school project on a Forest Fire and Virus Propagation Simulation. The initial functions were already written and we had to complete and improve the program.
+This was a school project on a Forest Fire and Virus Propagation Simulation. The initial functions were already written and we had to complete and improve the program. (This was a group project !)
 
 # Required software
 
